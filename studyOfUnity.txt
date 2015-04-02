@@ -1,0 +1,5 @@
+There is a lot to lean,so take the time you need to observe and understand the interface . We will walk through each interface element together.
+Learning the interface
+Take yourtime to loo over the Unity Editor interface and familiarize yourself with it . The Main Editor Window is made up of serveral Tabbed Windows,called Views.There are several types of Views in Unity - s bolow.they all have specific purposes which are described in the subsection below.
+
+In this view you can access and manage the assets that belong to your project.
